@@ -1,0 +1,17 @@
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/shokorakis/Documents/Farm House/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/shokorakis/Documents/Farm House/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/UnityEngine.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/UnityEditor.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Mono.Cecil.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Unity.DataContract.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/shokorakis/Documents/Farm House/Temp/bin/Debug/Mono.Cecil.Mdb.dll
